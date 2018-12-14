@@ -2,3 +2,5 @@ first file in develop branch
 modified in eclipse
 
 Modify to test git jira integration
+Jira integration failed because jire ref not given in commit message
+Now adding jira ref in commit message
